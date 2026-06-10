@@ -1,9 +1,13 @@
 # Terminus 💻
 
-> A sleek, developer-first HTML/CSS landing page template with a terminal-inspired aesthetic. Built with vanilla web technologies, it features a built-in language toggler, smooth micro-animations, and a suite of ready-to-use secondary pages. Perfect for tech products, CLI tools, developer utilities, or cybersecurity startups.
+**A sleek, developer-first HTML/CSS landing page template with a terminal-inspired aesthetic.**
+Built with vanilla web technologies, it features a built-in language toggler, smooth micro-animations, and a suite of ready-to-use secondary pages. Perfect for tech products, CLI tools, developer utilities, or cybersecurity startups.
+
+<img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/62ba46e7-cfb0-4569-901c-54cea39fcb12" />
 
 ## ✨ Key Features
-- **👨‍💻 Developer-First Aesthetic:** Clean, terminal-like UI with monospace fonts (JetBrains Mono) and mint-green "success" accents.
+
+- **👨💻 Developer-First Aesthetic:** Clean, terminal-like UI with monospace fonts (JetBrains Mono) and mint-green "success" accents.
 - **⚡ Zero Dependencies:** Built with 100% Vanilla HTML, CSS, and JS. No Webpack, no npm, no complex build steps required. Just open and edit!
 - **🌍 Built-in Localization (i18n):** Features a lightweight, vanilla JS language toggler (English & Russian included).
 - **📄 Ready-to-use Pages:** Comes with pre-formatted secondary pages (`roadmap.html`, `privacy.html`, `terms.html`, `licenses.html`, `docs.html`, `contact.html`).
@@ -11,6 +15,7 @@
 - **🎨 Easy to Customize:** CSS variables are centrally located in `styles.css` making it incredibly easy to re-theme the entire site.
 
 ## 🛠 Tech Stack
+
 - **Structure:** HTML5
 - **Styling:** Vanilla CSS3 (Custom Properties, Flexbox, CSS Grid)
 - **Logic:** Vanilla JavaScript (for language toggling and DOM interactions)
