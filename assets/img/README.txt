@@ -1,0 +1,1 @@
+Place your icons here (favicon.ico, apple-touch-icon.png etc...)
